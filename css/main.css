@@ -1,3 +1,8 @@
 .hello {
   color: red;
 }
+body {
+  background-color: #284759;
+  width: 500px;
+  height: 300px;
+}
